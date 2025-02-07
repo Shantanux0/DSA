@@ -1,6 +1,6 @@
 # 🚀 DSA (LeetCode Solutions)
 
-This repository contains my solutions to various **LeetCode** problems. The solutions are written in different programming languages and are added in no particular order.
+This repository contains my solutions to various **LeetCode** problems. The solutions are written in Java programming languages 
 
 ## 📂 Repository Overview
 
